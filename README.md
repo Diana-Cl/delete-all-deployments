@@ -1,4 +1,4 @@
-# Delete all Deployments
+## Delete all Deployments
 **Deletes all deployments given a Cloudflare Pages project name**
 
 <br></br> 
