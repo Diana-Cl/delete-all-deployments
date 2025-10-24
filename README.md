@@ -35,7 +35,7 @@ In the delete-all-deployments directory
 git clone https://github.com/Diana-Cl/delete-all-deployments.git && cd delete-all-deployments
 ```
 
-run `npm install` to install dependencies, take a minutes.
+run `npm install` to install dependencies
 
 ```
 npm install
